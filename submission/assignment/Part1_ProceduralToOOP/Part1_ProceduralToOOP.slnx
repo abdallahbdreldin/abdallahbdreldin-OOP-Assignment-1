@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../HotelReservationSystem/HotelReservationSystem.csproj" Id="45c37f45-73ec-41b5-83eb-53c27e914a5b" />
   <Project Path="../Part3_BuilderPattern/Part3_BuilderPattern.csproj" Id="22026cce-70b4-4a94-b262-79d65e8137b1" />
+  <Project Path="../Part4_LeetCode/Part4_LeetCode.csproj" Id="d2af0d49-9b31-46f8-a368-3e10ebefdd50" />
   <Project Path="Part1_ProceduralToOOP.csproj" />
 </Solution>
