@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../HotelReservationSystem/HotelReservationSystem.csproj" Id="45c37f45-73ec-41b5-83eb-53c27e914a5b" />
   <Project Path="Part1_ProceduralToOOP.csproj" />
 </Solution>
